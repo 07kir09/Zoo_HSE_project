@@ -51,5 +51,6 @@ Dependency Injection
 Запускать проект в Program.cs
 
 При необходимости нужно ввести в терминал эту строчку, чтобы установить пакет:   dotnet add package Microsoft.Extensions.DependencyInjection
+
 На всякий случай подключить зависимости между тестами и основным проектом
 
